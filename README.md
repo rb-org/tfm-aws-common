@@ -65,4 +65,3 @@
 * Configure Status badges using the API token you created earlier
 * Advanced Settings
   * Generally you want "Only build pull requests" set to off (default behavior)
-

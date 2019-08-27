@@ -17,7 +17,6 @@ variable "default_tags" {
 
 # Account IDs
 variable "account_id" {
-  default = "827734529707"
 }
 
 # Remote State S3 Bucket
